@@ -1,0 +1,35 @@
+body {
+  background-color: #1c1b1b;
+  background-image: url(images/image.png);
+  background-blend-mode: multiply;
+  background-repeat: space;
+}
+
+.text {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+#main {
+  margin-top: 10%;
+  text-align: center;
+  color: #fefefe;
+}
+
+#time {
+  font-size: 450%;
+}
+
+#date {
+  font-size: 150%;
+}
+
+#whydt {
+  margin-top: 5%;
+  font-size: 150%;
+  color: #DA5959;
+}
+
+#foot {
+  margin-top: 12%;
+  font-size: 100%;
+}
